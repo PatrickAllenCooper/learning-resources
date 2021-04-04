@@ -1,4 +1,4 @@
-# learning-resources
+# Learning Resources
 
 A set of resources created for online courses, and generally descritiptive excursions into the world of machine learning.
 
