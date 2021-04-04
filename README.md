@@ -4,5 +4,4 @@ A set of resources created for online courses, and generally descritiptive excur
 
 Index:  
 Fast Gradient Attacks By Hand For Tabular Data
-
 Machine Learning vs Deep Learning
